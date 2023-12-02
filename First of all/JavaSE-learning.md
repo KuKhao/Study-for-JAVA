@@ -7,4 +7,16 @@
 
 * java的反编译：  
    cavaj java软件可以将编译好的class文件还原成java文件  
- 
+
+ ## 基本数据类型
+ * 基本单位： <br>1字节=8bit（位）：二进制当中的一位，最小的单位
+<br>	1kb=1024（字节）byte
+	<br>1MB=1024KB
+<br>	1GB=1024MB
+<br>	1TB=1024G
+<br>	1PB=1024TB<br>
+* 基本数据类型：
+|       | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
